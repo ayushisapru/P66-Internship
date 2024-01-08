@@ -1,8 +1,0 @@
-{
-  "IsEncrypted": false,
-  "Values": {
-    "FUNCTIONS_WORKER_RUNTIME": "python",
-    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=[REDACTED];AccountKey=[REDACTED];EndpointSuffix=core.windows.net",
-    "KustoConnectionString": "Data Source=[REDACTED];Database=[REDACTED]"
-  }
-}
